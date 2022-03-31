@@ -15,10 +15,12 @@ Objective
   whatever they use it for
 
 Function
--Show overview accounting
--Add/ Edit / Delete records
--Types of categories can be added
--Summary of income and expense in totals days/month/year (show graph in calendar)
+- Show overview accounting
+- Add/ Edit / Delete records
+- Types of categories can be added
+- Summary of income and expense in totals days/month/year (show graph in calendar)
 - Total transections of records (include category)
 
 MERN Stack
+
+-https://github.com/maiyzaza/Project.github.io
