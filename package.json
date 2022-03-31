@@ -1,7 +1,7 @@
 {
   "name": "au-room-reservation",
   "homepage": "https://maiyzaza.github.io",
-  "version": "16.4.2",
+  "version": "17.1.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.1",
@@ -17,11 +17,11 @@
     "bootstrap-switch-button-react": "^1.2.0",
     "cdbreact": "^1.1.0",
     "gh-pages": "^3.2.3",
-    "mdbreact": "^5.1.0",
+    "mdbreact": "^4.6.1",
     "moment": "^2.29.1",
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.0-beta.6",
-    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table-next": "^1.1.0",
     "react-bootstrap-table2-paginator": "^2.1.2",
     "react-comment-form": "^0.1.9",
     "react-datepicker": "^4.5.0",
