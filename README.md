@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+<<<<<<< HEAD
 ### `yarn start`
 
 Runs the app in the development mode.\
@@ -68,3 +69,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+Function
+- Show overview accounting
+- Add/ Edit / Delete records
+- Types of categories can be added
+- Summary of income and expense in totals days/month/year (show graph in calendar)
+- Total transections of records (include category)
+
+MERN Stack
+
+
+
+
+BackEnd
+-https://github.com/maiyzaza/Project.github.io
+>>>>>>> 685fe25e62f3aafcafc174e0ca649b80915a0c4b
