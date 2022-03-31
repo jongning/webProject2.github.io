@@ -70,6 +70,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
+FrontEnd Kasidit Ploenthamakhun 6016901
+UI Chanoknon Tangthienkul 6217412
+BackEnd Kasemdet Soommart 6213639
+
+Name PersonalWallet Project
+
+Objective
+- Suitable for the user
+- Know the amount of saving
+- It's possible to keep track of it
+  by utilizing a category.
+
+- A user will see how much
+  money they spend per day and
+  whatever they use it for
+
+=======
 Function
 - Show overview accounting
 - Add/ Edit / Delete records
